@@ -3,10 +3,6 @@ console.log("fkpakfsa");
 console.log("fkpakfsa");
 console.log("fkpakfsa");
 console.log("fkpakfsa");
-console.log("fkpakfsa");
-console.log("fkpakfsa");
-console.log("fkpakfsa");
-console.log("fkpakfsa");
-console.log("fkpakfsa");
-console.log("fkpakfsa");
-console.log("djaojsda");
+function test() {
+    console.log("aaaaa");
+}
